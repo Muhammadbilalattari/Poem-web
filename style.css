@@ -1,0 +1,25 @@
+
+.tbl{
+background-color: rgb(86, 70, 141);
+padding: 20px;
+}
+.nav{
+    color:rgb(255, 247, 247);
+}
+.nav a:hover {
+    color: rgb(57, 10, 146);
+    cursor: pointer;
+}
+.para{
+    text-align: center;
+    color: rgb(2, 60, 78);
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 140, 255);
+
+}
+span{
+    color: rgb(114, 34, 34);
+}
